@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on making a AI <br>👯 I’m looking to collaborate on AI  Startup<br>🌱 I’m currently learning Web development<br>⚡ Fun fact- I code 😝
+🔭 I’m currently working on AI solutions <br>👯 I’m looking to collaborate on AI  Startup<br>🌱 I’m currently learning Web development<br>⚡ Fun fact- I code 😝
 
 
 # 💻 Tech Stack:
